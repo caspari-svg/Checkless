@@ -23,13 +23,14 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [X] Switch On/Off Dark Mode
-- [X] Extra Visual Controllers for different Tip Percentages
+- [X] Extra Visual Controllers solely for Tip Percentages
+- [X] Split Check Application for Large Parties
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://i.imgur.com/D9G1Ml5.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
